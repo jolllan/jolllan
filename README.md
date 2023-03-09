@@ -1,4 +1,4 @@
 ### Hey
 
-/I'm a young french student having fun on linux
+I'm a young french student having fun on linux
 
